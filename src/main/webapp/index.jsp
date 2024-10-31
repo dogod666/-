@@ -18,7 +18,7 @@
             <th>平时成绩</th>
             <th>期末成绩</th>
             <th>总成绩</th>
-            <th>操作</th>
+            <th>操作114514</th>
         </tr>
         <%
             List<Student> students = StudentRepository.getAllStudents();
